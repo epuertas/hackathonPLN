@@ -1,2 +1,2 @@
-# hackathonPLN
-II Hackathon Tecnologías del Lenguaje
+# II Hackathon Tecnologías del Lenguaje
+
